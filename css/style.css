@@ -6330,7 +6330,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap::-webkit-scrollbar-track {
-	background: #7FBC4E;
+	background: #444141;
 	border: none;
 	border-radius: 0;
 }
@@ -6637,10 +6637,10 @@ html.tablet .ui-to-top {
 .rd-navbar-fixed .rd-navbar-fixed--hidden {
 	display: none;
 }
-
+/*small screens*/
 .rd-navbar-fixed .rd-navbar-panel {
 	color: #9b9b9b;
-	background: #2F2FA2;
+	background: #444141;
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap {
