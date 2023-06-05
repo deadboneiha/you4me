@@ -3691,7 +3691,7 @@ ul.blog-post-meta li .icon {
 .footer-minimal {
 	padding: 60px 0;
 	text-align: center;
-	background: gray-dar;
+	background: #444141;
 }
 
 @media (min-width: 992px) {
